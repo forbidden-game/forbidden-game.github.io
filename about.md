@@ -25,16 +25,6 @@ This blog serves as a platform for me to:
 - Discuss technology trends and their implications
 - Offer tutorials and guides for fellow developers
 
-## My Expertise
-
-I have experience in various areas of software development, including:
-- Web development (frontend and backend)
-- System design and architecture
-- Database design and optimization
-- DevOps and deployment strategies
-- Performance optimization
-- Code quality and testing
-
 ## Let's Connect
 
 I believe in the power of knowledge sharing and community collaboration. Feel free to reach out if you:
@@ -44,9 +34,8 @@ I believe in the power of knowledge sharing and community collaboration. Feel fr
 - Have suggestions for future blog topics
 
 You can find me on:
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [your.email@example.com]
+- GitHub: [https://github.com/forbidden-game]
+- Email: [panxiezhao@gmail.com]
 
 ## About This Blog
 

@@ -1,8 +1,8 @@
 # Site settings
-title: Lucain Pan's Technical Blog
-email: your.email@example.com
+title: Lucain Pan's Blog
+email: panxiezhao@gmail.com
 description: >-
-  A personal blog focused on technical reports, thoughts, and insights.
+  A personal blog focused on thoughts and insights.
   Sharing knowledge and experiences in software development and technology.
 baseurl: ""
 url: "https://forbidden-game.github.io"
@@ -10,7 +10,7 @@ url: "https://forbidden-game.github.io"
 # Author details
 author:
   name: Lucain Pan
-  email: your.email@example.com
+  email: panxiezhao@gmail.com
 
 # Build settings
 markdown: kramdown
