@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Technical Blog
 
-Hi, I'm Lucain Pan, and this is where I share my technical reports, thoughts, and insights about software development and technology.
+Hi, I'm Lucain Pan, and this is where I share my thoughts and insights about software development and technology.
 
 ## Latest Posts
 
@@ -25,7 +25,6 @@ Hi, I'm Lucain Pan, and this is where I share my technical reports, thoughts, an
 ## About This Blog
 
 This blog focuses on:
-- Technical reports and analyses
 - Software development insights
 - Programming tips and best practices
 - Technology trends and thoughts

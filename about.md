@@ -34,8 +34,8 @@ I believe in the power of knowledge sharing and community collaboration. Feel fr
 - Have suggestions for future blog topics
 
 You can find me on:
-- GitHub: [https://github.com/forbidden-game]
-- Email: [panxiezhao@gmail.com]
+- GitHub: https://github.com/forbidden-game
+- Email: panxiezhao@gmail.com
 
 ## About This Blog
 
